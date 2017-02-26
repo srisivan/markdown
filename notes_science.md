@@ -41,18 +41,19 @@ Blood is made up of the following
 ### Heart.
 
 1. The heart has four chambers, namely :
-	1. Right Auricle, Right Ventricle (Upper part)
-	2. Left Auricle, Left Ventricle (Lower part), Which are separated by a wall (septum).
+	1. Right Auricle, Right Ventricle ( in the upper part )
+	2. Left Auricle, Left Ventricle ( in the lower part )
+	3. They are seperated by a wall (septum)
 
 2. It has 5 pipe like structures( Helping in the transportation of blood ) , which are :
-	1. superior vena cava,
-	2. inferior vena cava,
-	3. Aorta,
-	4. Pulmonary artery,
+	1. superior vena cava
+	2. inferior vena cava
+	3. Aorta
+	4. Pulmonary artery
 	4. Pulmonary vein
 
-3. The phase when both the oxygenated and the de-oxygenated blood enters the heart is called Systole.
+3. The phase when both the oxygenated and the de-oxygenated blood enters the heart through the superior vena cava and inferior vena cava is called Diastole.
 
-4. The phase when they are pumped out is called Diastole
+4. The phase when they are pumped out of pulmonary artery and aorta is called Systole
 
 
