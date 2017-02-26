@@ -3,7 +3,7 @@
 
 ## Chapter 1 : Transportation in animals and plants.
 
-### Blood.
+> ### Blood.
 
 1. Blood is a body's major medium of transport.
 
@@ -38,7 +38,7 @@ Blood is made up of the following
 9. Capillaries connect Artries and veins. 
 
 
-### Heart.
+> ### Heart.
 
 1. The heart has four chambers, namely :
 	1. Right Auricle, Right Ventricle ( in the upper part )
