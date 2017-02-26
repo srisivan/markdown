@@ -82,7 +82,7 @@ Images are classified the way they appear on the mirror. There are two types, na
 	1. Virtual Images ( The image formed on a plane mirror or screen. The rays do not actually meet. They get reflected away.Virtual images are always erect.)
 	2. Real Images ( The image formed on curved side of a polished spoon. The rays actually meet in front of the spoon.Real images are always inverted)
 
- ### Nature of Image formed on a plane mirror.
+### Nature of Image formed on a plane mirror.
 1. The image formed on the mirror is laterally inverted. Meaning they are inverted from left to right.
 2. The image formed on the mirror is equidistant from the object.
 3. The image is virtual and erect.
