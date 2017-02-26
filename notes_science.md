@@ -1,7 +1,7 @@
 
 # Science notes for exam.
 
-# Biolgy.
+# Biology.
 
 ## Chapter 1 : Transportation in animals and plants.
 
