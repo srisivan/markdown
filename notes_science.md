@@ -63,14 +63,14 @@ Blood is made up of the following
 
 ## Chapter 1 : Light
 
-> ### Properties of light 
+### >  Properties of light 
 
 1. Rectilinear Propagation of light : Light moves in straight lines.
 2. Reflection of light : When hit a  surface, it bounces off.
 	1. Regular Reflection : When hit on a well polished, smooth surface, the light bounces off it evenly.
 	2. Irregular Reflection : When hit on a irregular, rough surface, the light gets dispersed off in all directions unevenly.
 
-> ###  Types of mirrors :
+### > Types of mirrors :
 There are two types of mirrors, they are :
 	1. Plane mirrors.
 	2. Circular mirrors.
