@@ -71,7 +71,8 @@ Blood is made up of the following
 	2. Irregular Reflection : When hit on a irregular, rough surface, the light gets dispersed off in all directions unevenly.
 
 ### Types of mirrors :
-There are two types of mirrors, they are :
+There are two types of mirrors, they are
+
 1. Plane mirrors.
 2. Circular mirrors.
 	1. Concave mirrors.
