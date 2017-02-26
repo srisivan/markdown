@@ -72,10 +72,10 @@ Blood is made up of the following
 
 ### Types of mirrors :
 There are two types of mirrors, they are :
-	1. Plane mirrors.
-	2. Circular mirrors.
-		1. Concave mirrors.
-		2. Convex mirrors.
+1. Plane mirrors.
+2. Circular mirrors.
+	1. Concave mirrors.
+	2. Convex mirrors.
 
 ###  Types of Images :
 Images are classified the way they appear on the mirror. There are two types, namely :
