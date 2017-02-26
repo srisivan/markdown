@@ -8,6 +8,6 @@
 
 _Yay! Github!_
 
-:Grinning Face: :Winking Face:
+:smiley: :wink:
 
 
