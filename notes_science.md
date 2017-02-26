@@ -5,7 +5,7 @@
 
 ## Chapter 1 : Transportation in animals and plants.
 
-> ### Blood.
+### Blood.
 
 1. Blood is a body's major medium of transport.
 
@@ -40,7 +40,7 @@ Blood is made up of the following
 9. Capillaries connect Artries and veins. 
 
 
-> ### Heart.
+### Heart
 
 1. The heart has four chambers, namely :
 	1. Right Auricle, Right Ventricle ( in the upper part )
@@ -63,21 +63,21 @@ Blood is made up of the following
 
 ## Chapter 1 : Light
 
-### >  Properties of light 
+### Properties of light 
 
 1. Rectilinear Propagation of light : Light moves in straight lines.
 2. Reflection of light : When hit a  surface, it bounces off.
 	1. Regular Reflection : When hit on a well polished, smooth surface, the light bounces off it evenly.
 	2. Irregular Reflection : When hit on a irregular, rough surface, the light gets dispersed off in all directions unevenly.
 
-### > Types of mirrors :
+### Types of mirrors :
 There are two types of mirrors, they are :
 	1. Plane mirrors.
 	2. Circular mirrors.
 		1. Concave mirrors.
 		2. Convex mirrors.
 
-> ###  Types of Images :
+###  Types of Images :
 Images are classified the way they appear on the mirror. There are two types, namely :
 1. Virtual Images ( The image formed on a plane mirror or screen. The rays do not actually meet. They get reflected away.Virtual images are always erect.)
 2. Real Images ( The image formed on curved side of a polished spoon. The rays actually meet in front of the spoon.Real images are always inverted)
@@ -87,5 +87,3 @@ Images are classified the way they appear on the mirror. There are two types, na
 2. The image formed on the mirror is equidistant from the object.
 3. The image is virtual and erect.
 4. Same size of the object.
-
-
